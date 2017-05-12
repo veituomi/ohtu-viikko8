@@ -1,0 +1,15 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "strict": true,
+        "module": "system",
+        "removeComments": true,
+        "outFile": "build/main.js",
+        "declaration": true
+    },
+    "include": [
+        "./**/*"
+    ]
+}

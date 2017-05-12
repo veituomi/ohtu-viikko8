@@ -1,0 +1,14 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "module": "system",
+        "removeComments": true,
+        "outFile": "build/test.js",
+        "experimentalDecorators": true
+    },
+    "include": [
+        "./**/*",
+        "../../build/main.d.ts",
+        "../../lib/**/*.d.ts"
+    ]
+}
