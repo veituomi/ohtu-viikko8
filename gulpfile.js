@@ -1,7 +1,6 @@
 var gulp = require("gulp");
 var util = require("gulp-util");
 var ts = require("gulp-typescript");
-var tslint = require("gulp-tslint");
 var merge = require('merge2');
 
 var testConsole = {
